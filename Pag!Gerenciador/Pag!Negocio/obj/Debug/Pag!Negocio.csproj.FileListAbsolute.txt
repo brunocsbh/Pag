@@ -1,0 +1,7 @@
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Negocio\bin\Debug\Pag!Negocio.dll
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Negocio\bin\Debug\Pag!Negocio.pdb
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Negocio\obj\Debug\Pag!Negocio.csprojResolveAssemblyReference.cache
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Negocio\obj\Debug\Pag!Negocio.dll
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Negocio\obj\Debug\Pag!Negocio.pdb
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Negocio\bin\Debug\Newtonsoft.Json.dll
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Negocio\bin\Debug\Newtonsoft.Json.xml

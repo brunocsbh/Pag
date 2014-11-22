@@ -1,0 +1,16 @@
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Pag!Gerenciador.exe.config
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Pag!Gerenciador.exe
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Pag!Gerenciador.pdb
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Gma.QrCodeNet.Encoding.dll
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag!Gerenciador.csprojResolveAssemblyReference.cache
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag_Gerenciador.Properties.Resources.resources
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag!Gerenciador.csproj.GenerateResource.Cache
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag!Gerenciador.exe
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag!Gerenciador.pdb
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag_Gerenciador.Form1.resources
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Newtonsoft.Json.dll
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Newtonsoft.Json.xml
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Pag!Negocio.dll
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\bin\Debug\Pag!Negocio.pdb
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag_Gerenciador.FormPrincipal.resources
+D:\Workspace\Pag!\Pag!Gerenciador\Pag!Gerenciador\Pag!Gerenciador\obj\Debug\Pag_Gerenciador.MDIGerarConsumidor.resources
